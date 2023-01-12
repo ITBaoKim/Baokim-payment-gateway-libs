@@ -1,5 +1,5 @@
 {
-    "name": "duynv/baokim-sdk",
+    "name": "baokim/payment-gateway",
     "description": "BaoKim SDK",
     "type": "library",
     "autoload": {
