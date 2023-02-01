@@ -1,6 +1,6 @@
 <?php
 
-namespace Duynv\BaokimSdk\Helpers;
+namespace BaoKim\BaokimSdk\Helpers;
 
 use GuzzleHttp\Client;
 

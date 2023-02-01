@@ -1,10 +1,10 @@
 <?php
 
-namespace Duynv\BaokimSdk;
+namespace BaoKim\BaokimSdk;
 
 require_once(__DIR__ . '/../config/config.php');
 
-use Duynv\BaokimSdk\Helpers\Common;
+use BaoKim\BaokimSdk\Helpers\Common;
 use Firebase\JWT\JWT;
 use GuzzleHttp\Client;
 
