@@ -1,6 +1,6 @@
 <?php
 
-namespace Duynv\BaokimSdk;
+namespace BaoKim\BaokimSdk;
 
 class Webhook {
     public $sec;
